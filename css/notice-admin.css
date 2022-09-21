@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+#button-area{
+	position: absolute;
+    right: 142px;
+    top: 703px;
+}
+#button-detail-area{
+	position: absolute;
+    right: 155px;
+    top: 1094px;
+}
+#notice-btn-update{
+	    margin: 0px 15px;
+		
+}
+.admin-btn{
+	padding: 10px
+}
